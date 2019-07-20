@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "960782431639",
+    "firebase_url": "https://whyapp-a1799.firebaseio.com",
+    "project_id": "whyapp-a1799",
+    "storage_bucket": "whyapp-a1799.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960782431639:android:4f8d6e202a78f811",
+        "android_client_info": {
+          "package_name": "com.example.administrator.whyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960782431639-uv2bbsin9q7hgh0kh1dna1ieghmpr2gc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.administrator.whyapp",
+            "certificate_hash": "e415c2f374f75322b631c481399213d1a66c5a02"
+          }
+        },
+        {
+          "client_id": "960782431639-647nc1e4oqrcmhnbo2cg2b8q4dta72ba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.administrator.whyapp",
+            "certificate_hash": "e25e7715c1f82226619dfe9040335280b49eef92"
+          }
+        },
+        {
+          "client_id": "960782431639-censukb66epk6rsat9hj0ic5d85ou7o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_OUT1FSBrUuRjhy1v8APRW3pvnDNpkw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960782431639-censukb66epk6rsat9hj0ic5d85ou7o8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

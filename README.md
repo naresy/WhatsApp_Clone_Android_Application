@@ -1,6 +1,6 @@
 <h1>WhatsApp Clone Android Application</h1>
 
-<p>This project is an Android application that replicates the core features of the popular messaging app, WhatsApp. It is developed using Java and Firebase, providing real-time chat capabilities, user authentication, profile management, and media sharing functionalities.</p>
+<p>This project is an Android application that replicates the core features of the popular messaging app, WhatsApp. It is developed using Java and Firebase, providing real-time chat capabilities, user authentication, profile management, and media-sharing functionalities.</p>
 
 <h2>Features</h2>
 <ul>
@@ -22,7 +22,7 @@
 
 <h2>Installation</h2>
 <ol>
-    <li>Clone the repository: <code>git clone https://github.com/yourusername/whatsapp-clone-android.git</code></li>
+    <li>Clone the repository: <code>git clone https://github.com/naresy/WhatsApp_Clone_Android_Application.git</code></li>
     <li>Open the project in Android Studio</li>
     <li>Sync the project with Gradle files</li>
     <li>Set up Firebase for your project and replace the <code>google-services.json</code> file</li>
